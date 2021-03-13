@@ -10,7 +10,7 @@ cache:
 node_js: stable
 
 install:
-   - npm install -D
+   - yarn install
 
 script:
-   - npm test
+   - yarn test
